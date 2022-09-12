@@ -5,7 +5,7 @@
 
 ^^^ *That's Me!* 
 
-#Music#
+# Music
 
 I am currently working on an album and I play the piano and I am just starting to learn the bass. I use garageband for my music and I am hoping to finish my album by the end of the year
 <!--
