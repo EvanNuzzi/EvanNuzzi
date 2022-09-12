@@ -1,9 +1,13 @@
 ### Hi there 👋
-**My name is Evan Nuzzi and I am 19 years old**
+**My name is Evan Nuzzi and I am 19 years old!**
 
-**I love writing music, playing video games and playing basketball**
+![YZgBGfTK_400x400](https://user-images.githubusercontent.com/113387776/189750166-80100a1a-c684-4110-a363-21ff1f79b5a4.jpg)
 
-**I am currently trying to learn the bass guitar. It is pretty difficult because I am coming from 10 years of piano expererience**
+^^^ *That's Me!* 
+
+**I love writing music, playing video games and playing basketball!**
+
+**I am currently trying to learn the bass guitar. It is pretty difficult because I am coming from 10 years of piano expererience.**
 <!--
 **EvanNuzzi/EvanNuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
