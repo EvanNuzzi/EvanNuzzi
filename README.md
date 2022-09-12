@@ -5,9 +5,9 @@
 
 ^^^ *That's Me!* 
 
-**I love writing music, playing video games and playing basketball!**
+#Music
 
-**I am currently trying to learn the bass guitar. It is pretty difficult because I am coming from 10 years of piano expererience.**
+I am currently working on an album and I play the piano and I am just starting to learn the bass. I use garageband for my music and I am hoping to finish my album by the end of the year
 <!--
 **EvanNuzzi/EvanNuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
