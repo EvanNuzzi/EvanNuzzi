@@ -13,7 +13,11 @@ I am currently working on an album and I play the piano and I am just starting t
 
 # Video Games
 
-I've been dating my girlfriend for almost 7 months and in the time I have played videogames a lot less, but everytime I hop on to play now they are **EXHILIRATING!!** I think its because I don't play them at all now. I love the Far Cry series, Sea of Thieves and I'm playing Dying Light 2 at the moment!
+I've been dating my girlfriend for almost 7 months and in that time I have played videogames a lot less. Everytime I hop on to play now they are **EXHILIRATING!!** I think its because I don't play them at all now. I love the Far Cry series, Sea of Thieves and I'm playing Dying Light 2 at the moment!
+
+# Basketball 
+
+I love playing and watching basketball. My favorite team is the Lakers because I really enjoy watching Lebron James. I started playing around my Freshman year of highschool and I have loved it ever since. It's very competetitive and its a great source of exercise!!
 <!--
 **EvanNuzzi/EvanNuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
